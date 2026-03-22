@@ -1,4 +1,4 @@
-# Jingju MusicXML Tokenizer — v4
+# Jingju MusicXML Tokenizer
 
 **Course:** Analysis of Symbolic Music and Ethnomusicology  
 **Dataset:** Jingju Opera Scores — 108 MusicXML files  
