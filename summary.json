@@ -1,0 +1,43 @@
+{
+  "total_files": 108,
+  "tokenized_ok": 108,
+  "failed": 0,
+  "junk_skipped": 0,
+  "tokenizer_stats": {
+    "microtones_quantized": 0,
+    "events_skipped": 0,
+    "measures_skipped": 0,
+    "files_failed": 0,
+    "files_tokenized": 784,
+    "junk_skipped": 0
+  },
+  "token_stats": {
+    "total": 694560,
+    "avg": 6431.1,
+    "min": 344,
+    "max": 28708
+  },
+  "distribution": {
+    "vocab_size": 6862,
+    "entropy_bits": 6.4852,
+    "entropy_max_bits": 12.7442,
+    "efficiency": 0.5089,
+    "kl_divergence_bits": 1.7e-05,
+    "rare_pitch_merged": 7
+  },
+  "evaluation": {
+    "pitch_acc_mean": 0.9824,
+    "dur_acc_mean": 0.9891,
+    "combined_acc_mean": 0.9774,
+    "measure_integrity_mean": 84.58,
+    "perfect_reconstruction_pct": 72.2
+  },
+  "config": {
+    "steps_per_quarter": 4,
+    "quant_mode": "nearest",
+    "rare_pitch_threshold": 5,
+    "rare_lyric_threshold": 3,
+    "version": "v4"
+  },
+  "timestamp": "2026-03-22T23:04:37.823594Z"
+}
